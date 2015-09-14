@@ -61,3 +61,7 @@ gem 'bootstrap-sass'
 gem 'font-awesome-sass'
 gem 'simple_form'
 
+#figaro
+
+gem "figaro"
+
