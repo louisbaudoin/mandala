@@ -43,3 +43,21 @@ group :development, :test do
   gem 'spring'
 end
 
+#debug
+
+# Gemfile
+group :development do
+  gem "better_errors"
+  gem "binding_of_caller"
+  gem "quiet_assets"
+  gem "pry-rails"
+
+end
+
+
+# bootstrap and front
+
+gem 'bootstrap-sass'
+gem 'font-awesome-sass'
+gem 'simple_form'
+
